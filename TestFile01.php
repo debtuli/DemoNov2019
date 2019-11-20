@@ -1,18 +1,16 @@
 <html>
-
-<head>
-
-<title>PHP Test01</title>
-
-</head>
-
-<body>
-
-<?php echo '<p>Hello World</p>'; ?> 
-
-</body>
-
+ <head>
+  <title>PHP Test</title>
+   <h1 style="color:blue;">This is a heading</h1>
+ 
+ </head>
+ <body>
+  
+ <?php echo '<p>Hello World111</p>'; ?> 
+ </body>
 </html>
+
+
 
 
 
