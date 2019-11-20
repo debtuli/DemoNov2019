@@ -1,14 +1,17 @@
 <html>
- <head>
-  
- </head>
- <body>
-  
- <?php 
-Print "Hello, World!";
-?>
-<?php 
- </body>
+
+<head>
+
+<title>PHP Test</title>
+
+</head>
+
+<body>
+
+<?php echo '<p>Hello World</p>'; ?> 
+
+</body>
+
 </html>
 
 
