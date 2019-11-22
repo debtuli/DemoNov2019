@@ -3,8 +3,8 @@
   <title>PHP Test</title>
  </head>
  <body>
-  
- <?php echo '<p>Hello World111</p>'; ?> 
+  echo "<body style='background-color:pink'>";
+ <?php echo '<p>Hello World</p>'; ?> 
  </body>
 </html>
 
